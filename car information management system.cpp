@@ -1,6 +1,7 @@
 //car information system in bus station 
 #include<iostream>
 #include<iomanip>
+#include<cstdlib>
 using namespace std;
 void first();
 int add();
