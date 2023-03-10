@@ -1,6 +1,4 @@
 //car information system in bus station 
-//using linked list
-//group 2
 #include<iostream>
 #include<iomanip>
 using namespace std;
